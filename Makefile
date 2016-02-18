@@ -1,5 +1,4 @@
-#__go=$(shell which go)
-__go=/Users/a12057/homebrew/Cellar/go/1.5.2/bin/go
+__go=$(shell which go)
 __vendor_dir=vendor
 __gopath=$(shell pwd)/$(__vendor_dir)
 
