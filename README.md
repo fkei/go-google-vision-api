@@ -39,7 +39,7 @@ Usage of ./google-vision:
 $ make build
 ```
 
-$ Source Run
+# Source Run
 
 ```
 $ make run
