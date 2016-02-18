@@ -3,6 +3,8 @@ Access commands to the Google Cloud Vision API
 
 # Use(example)
 
+Get Binary(Latest) google-vision : [https://github.com/fkei/go-google-vision-api/releases/latest](https://github.com/fkei/go-google-vision-api/releases/latest)
+
 ```
 $ ./google-vision -api-key=XXXXXXXXXX -path=test.png
 ----
