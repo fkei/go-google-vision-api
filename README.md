@@ -42,5 +42,5 @@ $ make build
 $ Source Run
 
 ```
-$ make run
+$ make run api-key={Google API KEY}
 ```
