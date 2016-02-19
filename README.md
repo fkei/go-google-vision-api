@@ -5,7 +5,7 @@ Access commands to the Google Cloud Vision API
 
 Get Binary(Latest) google-vision : [https://github.com/fkei/go-google-vision-api/releases/latest](https://github.com/fkei/go-google-vision-api/releases/latest)
 
-```
+```sh
 $ ./google-vision -api-key=XXXXXXXXXX -path=test.png
 ----
 1:
@@ -26,7 +26,7 @@ $ ./google-vision -api-key=XXXXXXXXXX -path=test.png
 
 ### Help
 
-```
+```sh
 $ ./google-vision --help
 Usage of ./google-vision:
   -api-key="": Google API KEY
@@ -35,12 +35,12 @@ Usage of ./google-vision:
 
 # Build
 
-```
+```sh
 $ make build
 ```
 
-$ Source Run
+# Source Run
 
-```
+```sh
 $ make run api-key={Google API KEY}
 ```
